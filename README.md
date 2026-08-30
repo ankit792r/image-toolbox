@@ -1,4 +1,10 @@
-# Image ToolBox
+<p align="center">
+  <img src="banner.png" alt="Image Toolbox: Transform your images, entirely offline" width="100%">
+</p>
+
+<p align="center">
+  A local-first, offline image utility for Android, iOS, Linux, macOS, and Windows. Pick an image (or several), choose a tool, preview the result, then save or share. Originals are never overwritten.
+</p>
 
 **Transform your images, entirely offline.**
 
@@ -7,7 +13,7 @@ A local-first, offline image utility for Android, iOS, Linux, macOS, and Windows
 | | |
 | --- | --- |
 | **Version** | 1.0.0 (build 1) |
-| **Android package** | `com.system74.image_tool_box` |
+| **Android package** | `com.system74.imagetoolbox` |
 | **Platforms** | Android · iOS · Linux · macOS · Windows |
 
 ## Features
