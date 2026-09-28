@@ -13,7 +13,6 @@ A local-first, offline image utility for Android, iOS, Linux, macOS, and Windows
 | | |
 | --- | --- |
 | **Version** | 1.0.0 (build 1) |
-| **Android package** | `com.system74.imagetoolbox` |
 | **Platforms** | Android · iOS · Linux · macOS · Windows |
 
 ## Features
